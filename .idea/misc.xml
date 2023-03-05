@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Strengers/app/src/main/res/drawable/connectring_gradiant.xml" value="0.1945" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Strengers/app/src/main/res/drawable/grey_bg.xml" value="0.1945" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Strengers/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1945" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Strengers/app/src/main/res/drawable/reward_bg.xml" value="0.1945" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Strengers/app/src/main/res/drawable/user_bg.xml" value="0.1945" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Strengers/app/src/main/res/drawable/white_rounded_bg.xml" value="0.1945" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Strengers/app/src/main/res/layout/activity_call.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Strengers/app/src/main/res/layout/activity_connecting.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Strengers/app/src/main/res/layout/activity_login.xml" value="0.27838258164852253" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Strengers/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Strengers/app/src/main/res/layout/activity_reward.xml" value="0.2" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Strengers/app/src/main/res/layout/activity_welcome.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_18_PREVIEW" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
